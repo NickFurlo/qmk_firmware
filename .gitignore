@@ -80,3 +80,27 @@ __pycache__
 
 # Allow to exist but don't include it in the repo
 user_song_list.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/5x6.c
+keyboards/handwired/dactyl_manuform/5x6 - Copy/5x6.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/config.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/info.json
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/333fred/config.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/333fred/keymap.c
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/333fred/rules.mk
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/default/config.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/default/keymap.c
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/impstyle/config.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/impstyle/keymap.c
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/rishka/config.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/rishka/keymap.c
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/rishka/rules.mk
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/squirrel/config.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/squirrel/keymap.c
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/squirrel/rules.mk
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/swedish/config.h
+keyboards/handwired/dactyl_manuform/5x6 - Copy/keymaps/swedish/keymap.c
+keyboards/handwired/dactyl_manuform/5x6 - Copy/rules.mk
+keyboards/handwired/dactyl_manuform/config.h
+keyboards/handwired/dactyl_manuform/config.h
+keyboards/handwired/dactyl_manuform/config.h
+keyboards/handwired/earllgray-macropadv1.7z

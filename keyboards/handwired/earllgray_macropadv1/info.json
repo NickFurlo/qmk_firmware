@@ -1,0 +1,26 @@
+{
+    "keyboard_name": "earllgray_macropadV1",
+    "keyboard": "earllgray_macropadV1",
+    "url": "https://github.com/nickfurlo",
+    "maintainer": "Nick Furlo",
+    "width": 5,
+    "height": 4,
+    "keymap": "default",
+    "layouts": {
+        "LAYOUT_horizontal": {
+            "key_count": 20,
+            "layout": [
+                { "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 2, "y": 0 },{ "x": 3, "y": 0 }, { "x": 4, "y": 0 },
+                { "x": 0, "y": 1 }, { "x": 1, "y": 1 }, { "x": 2, "y": 1 },{ "x": 3, "y": 1 }, { "x": 4, "y": 1 },
+            	{ "x": 0, "y": 2 }, { "x": 1, "y": 2 }, { "x": 2, "y": 2 },{ "x": 3, "y": 2 }, { "x": 4, "y": 2 },
+            	{ "x": 0, "y": 3 }, { "x": 1, "y": 3 }, { "x": 3, "y": 3 },{ "x": 5, "y": 3, "w":2 }, { "x": 4, "y": 3 },
+            ]	
+        }
+    },
+    "layers": [
+        ["KC_ESCAPE", "KC_1", "KC_2", "KC_3", "KC_4", 
+		"KC_GRAVE", "KC_Q", "KC_W", "KC_E", "KC_R",
+		"KC_LSHIFT", "KC_A", "KC_S", "KC_D", "KC_F", 
+		"KC_LCTRL", "KC_Z", "KC_C", "KC_SPACE", "KC_V",]
+    ]
+}
